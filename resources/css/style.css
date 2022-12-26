@@ -3,9 +3,10 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
-    color: white
+    color: white;
+    width: auto
 }
-img {
+img, video {
     max-width: 100%;
 }
 h1 {
